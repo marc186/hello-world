@@ -1,2 +1,3 @@
 # hello-world
-First project
+
+This is the beginning of the software project.
